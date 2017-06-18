@@ -23,6 +23,13 @@
     /*line-height: ;*/
 }
 
+.btn-orange {
+    background-color: #E0824C;
+}
+.btn-orange:hover {
+    background-color: #d27947!important;
+}
+
 @media screen and (max-width: 786px) {
     #_top_media {
         max-width: 200px;
