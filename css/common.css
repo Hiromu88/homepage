@@ -8,6 +8,17 @@
     color: #222222;
 }
 
+#_top_media {
+    position: absolute;
+    bottom: 20px;
+    width: 250px;
+    right: 60px;
+    float: right;
+    text-align: left;
+    z-index: 1200;
+}
+
+
 /* Card style */
 
 .post-module {
