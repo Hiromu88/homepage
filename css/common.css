@@ -11,11 +11,16 @@
 #_top_media {
     position: absolute;
     bottom: 20px;
-    width: 250px;
+    width: 380px;
     right: 60px;
     float: right;
     text-align: left;
     z-index: 1200;
+}
+
+.caption h5 {
+    margin:0;
+    /*line-height: ;*/
 }
 
 .fh5co-heading {
