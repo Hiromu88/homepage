@@ -23,6 +23,12 @@
     /*line-height: ;*/
 }
 
+@media screen and (max-width: 786px) {
+    #_top_media {
+        max-width: 200px;
+    }
+}
+
 .fh5co-heading {
     font-size: 23px;
 }
