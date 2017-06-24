@@ -58,6 +58,11 @@ img {
     font-size: 27px!important;
 }
 
+.fh5co-narrow-content p {
+    color: #333333;
+    font-size: 16px;
+}
+
 /* Card style */
 
 .post-module {
