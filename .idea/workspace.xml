@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8301ddf3-6a78-4bab-8a59-0d75b26745ae" name="Default" comment="" />
+    <list default="true" id="8301ddf3-6a78-4bab-8a59-0d75b26745ae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+    </list>
     <ignored path="marble.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -20,18 +22,46 @@
     <favorites_list name="marble" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/common.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="104" column="32" lean-forward="true" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/common.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="158">
+                  <caret line="84" column="27" lean-forward="false" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="564">
+                  <caret line="157" column="31" lean-forward="false" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/common.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="424">
+                  <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -737,7 +767,7 @@
       <workItem from="1491714203326" duration="14894000" />
       <workItem from="1491733543387" duration="141000" />
       <workItem from="1498218634049" duration="77000" />
-      <workItem from="1498282273369" duration="1523000" />
+      <workItem from="1498282273369" duration="1701000" />
     </task>
     <task id="LOCAL-00001" summary="#8">
       <created>1497770850054</created>
@@ -750,10 +780,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24384000" />
+    <option name="totallyTimeSpent" value="24562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-216" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -766,7 +797,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13069306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13069306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18157615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1170,7 +1201,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="564">
           <caret line="157" column="31" lean-forward="false" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
           <folding />
         </state>
@@ -1178,8 +1209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="104" column="32" lean-forward="true" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
+        <state relative-caret-position="424">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
