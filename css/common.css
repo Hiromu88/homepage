@@ -53,6 +53,10 @@ img {
 }
 
 
+.slides .top-title {
+    font-family: "HanziPen SC" !important;
+}
+
 /* Card style */
 
 .post-module {
