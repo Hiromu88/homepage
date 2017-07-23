@@ -73,6 +73,16 @@ img {
     color: #fff;
 }
 
+.slides .top-title {
+    font-family: "HanziPen SC" !important;
+    font-size: 27px!important;
+}
+
+.fh5co-narrow-content p {
+    color: #333333;
+    font-size: 16px;
+}
+
 /* Card style */
 
 .post-module {
@@ -117,7 +127,7 @@ img {
     background: #e74c3c;
     width: 55px;
     height: 55px;
-    padding: 12.5px 0;
+    padding: 7px 0 12px 0;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
